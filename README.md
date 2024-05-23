@@ -1,10 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E684FF&height=80&section=header&text=%&fontSize=50)
 <div align="center">
-  <p><strong> Web Developer </strong></p>
-</div>
-<br />
-<div align="center">
-<h2> 🌟 SKILLS 🌟 </h2>
+    <p><strong> 🌟 SKILLS 🌟 </strong></p>
   <div>
     <table>
       <tr>
@@ -38,7 +34,8 @@
 </div>
 <br />
 <div align="center">
-<h2 > 🔰 ALGORITHM 🔰 </h2>
+    <p><strong> 🔰 ALGORITHM 🔰 </strong></p>
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wldnjs1123)](https://solved.ac/wldnjs1123)
