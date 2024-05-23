@@ -36,6 +36,7 @@
               <img src="https://img.shields.io/badge/gerrit-EEEEEE?style=flat-square&logo=gerrit&logoColor=000000"/>
               <img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=000000"/>
               <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat-square&logo=swagger&logoColor=000000"/>
+              <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=000000"/>
             </td>
         </td>
       </tr>
