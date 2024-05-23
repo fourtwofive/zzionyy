@@ -18,15 +18,15 @@
           <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=000000"/> 
           <img src="https://img.shields.io/badge/vuejs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=000000"/>
           <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=000000"/> 
-          <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=000000"/>
         </td>
       </tr>
       <tr>
         <td align="center">  🔧 Tools 🔧 </td>
         <td align="center">
-          <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=000000"/>
-          <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=000000"/>
+          <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=000000"/>
           <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=000000"/>
+          <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=000000"/>
+          <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=000000"/>
         </td>
       </tr>
     </table>
