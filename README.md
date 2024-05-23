@@ -4,7 +4,7 @@
 </div>
 <br />
 <div align="center">
-<h2 > 🌟 Skills 🌟 </h2>
+<h2 > 🌟 SKILLS 🌟 </h2>
   <div>
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000"/> 
@@ -24,7 +24,7 @@
 </div>
 <br />
 <div align="center">
-<h2 > 🔰 Algorithm 🔰 </h2>
+<h2 > 🔰 ALGORITHM 🔰 </h2>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wldnjs1123)](https://solved.ac/wldnjs1123)
